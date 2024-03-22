@@ -6,4 +6,4 @@ def tampilkan_daftar_buah(nama_toko, *daftar_buah):
     print("Terimakasih sudah beli disini dan sehat selalu")
 
 
-tampilkan_daftar_buah("Toko Buah Koperasi UNJANI Yogyakarta", "Apel", "Semangka", "Jeruk", "Anggur")
+tampilkan_daftar_buah("Toko Buah Unjaya Jaya Jaya Jos Yogyakarta", "Apel", "Semangka", "Jeruk", "Anggur")
