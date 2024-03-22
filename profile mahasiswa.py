@@ -1,6 +1,6 @@
 def tampilkan_profil_mahasiswa(Nama, NIM, Prodi, Hobi):
-    print("[91mProfile Mahasiswa UNIV UNJAYA YOGYAKARTA")
-    print("Mahasiswa Prodi {0}  UNIV UNJAYA YOGYAKARTA".format(Prodi))
+    print("Profile Mahasiswa UNIV UNJAYA YOGYAKARTA")
+    print("Mahasiswa Prodi {0} UNIV UNJAYA YOGYAKARTA".format(Prodi))
     print("Dengan nama {0}".format(Nama))
     print("Mempunyai NIM {0}".format(NIM))
     print("Memiliki Hobi {0}".format(Hobi))
