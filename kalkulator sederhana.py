@@ -2,7 +2,7 @@ def perkalian(a, b):
     return a * b
 
 def pembagian(a, b):
-    return a / b if b != 0 else "Tidak bisa melakukan pembagian dengan nol"
+    return a / b if b != 0 else 
 
 def penambahan(a, b):
     return a + b
@@ -19,7 +19,7 @@ def main():
         print("4. Pengurangan")
         print("5. Stop")
 
-        pilihan = input("Masukkan pilihan Anda (1/2/3/4/5): ")
+        pilihan = input("Masukkan pilihan Anda : ")
 
         if pilihan == '5':
             print("Program dihentikan.")
